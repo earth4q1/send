@@ -1,7 +1,7 @@
 
 const Web3 = require('web3');
 const web3 = new Web3('https://data-seed-prebsc-1-s1.binance.org:8545/') //testnet
-const web3 = new Web3('https://bsc-dataseed.binance.org/') //Mainnet
+// const web3 = new Web3('https://bsc-dataseed.binance.org/') //Mainnet
 
 // Variables definition
 const privKey ='e60f889abd8737698974d2be95b0cc297d34e369a24be08609bff9a45358a97a'; // Genesis private key
